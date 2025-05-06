@@ -1,7 +1,7 @@
 syn case match
 
 syn keyword rs2fDecl          rule apply
-syn keyword rs2fExpr          name id quantity value gevalue havalue tradeable stackable noted ownership area
+syn keyword rs2fExpr          name id quantity value gevalue havalue tradeable stackable noted ownership area accountType
 syn keyword rs2fStyleProperty hidden hideOverlay color textColor backgroundColor borderColor showLootbeam showLootBeam showValue showDespawn notify textAccent textAccentColor lootbeamColor lootBeamColor fontType menuTextColor highlightTile tileStrokeColor tileFillColor menuSort sound icon
 syn keyword rs2fBool          true false
 syn keyword rs2fIconExpr      Sprite Item File CurrentItem
